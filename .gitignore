@@ -1,0 +1,16 @@
+# Node / Expo
+node_modules/
+.expo/
+.expo-shared/
+npm-debug.log
+yarn.lock
+package-lock.json
+
+# Python
+__pycache__/
+venv/
+.env
+*.pyc
+
+# macOS
+.DS_Store
