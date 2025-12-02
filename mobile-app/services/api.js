@@ -1,5 +1,5 @@
 // Update BACKEND_URL if your backend runs elsewhere
-export const BACKEND_URL = 'http://10.0.2.2:8000'; // emulator default for android emulator
+export const BACKEND_URL = 'https://mobile-app-2-1hj8.onrender.com';// emulator default for android emulator
 // For real device using local machine, use your PC LAN IP, e.g. http://192.168.1.10:8000
 
 import axios from 'axios';
