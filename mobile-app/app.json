@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "LifeScore",
+    "slug": "lifescore",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["ios", "android"],
+    "extra": {}
+  }
+}
